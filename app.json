@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/Lbingyi/HerokuXray",
-  "repository": "https://github.com/Lbingyi/HerokuXray",
+  "website": "https://github.com/isyr163/newku",
+  "repository": "https://github.com/isyr163/newku",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
